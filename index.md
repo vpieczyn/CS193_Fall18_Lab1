@@ -1,3 +1,11 @@
+# Virginia's First CS193 Homework :)
+- my favorite things about cs193:
+- raindrops on roses
+- whiskers on kittens
+- it's all practical information
+- the class size isn't crazy big
+- it's only a short walk from my dorm
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
